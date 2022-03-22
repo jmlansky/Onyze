@@ -1,0 +1,41 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:5002",
+      "sslPort": 44375
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+
+        "DB_CONNECTION_STRING": "Password=EsLaQueTeDije1;Persist Security Info=True;User ID=touch-test-admin;Initial Catalog=touch-test-mssql;Data Source=touch-test-mssql.database.windows.net;MultipleActiveResultSets=True",
+
+        //"STORAGE_ENVIRONMENT": "Azure", //o "Local",
+        //"STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=jmotionazurefileserver;AccountKey=jXDLY2nJ+KnovcmWV8I/ZK/vLokvXeWDxVxcvWQljWMK05HJT4CCclJqPn2yEnX7D8zUjWM9Z6T0XBCYZGKP5w==;EndpointSuffix=core.windows.net",
+        //"STORAGE_MAIN_FOLDER": "simple-sale-fs"
+
+        "STORAGE_ENVIRONMENT": "Local", //o "Local",
+        "STORAGE_CONNECTION_STRING": "C:\\Users\\Javi\\Desktop",
+        "STORAGE_MAIN_FOLDER": "Archivos Test" // Esta es la carpeta compartida
+      }
+    },
+    "Touch.Service": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DB_CONNECTION_STRING": "Password=EsLaQueTeDije1;Persist Security Info=True;User ID=touch-test-admin;Initial Catalog=touch-test-mssql;Data Source=touch-test-mssql.database.windows.net;MultipleActiveResultSets=True"
+      },
+      "applicationUrl": "https://localhost:5003;http://localhost:5004"
+    }
+  }
+}
