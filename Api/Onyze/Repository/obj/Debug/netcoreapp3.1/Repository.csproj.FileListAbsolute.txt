@@ -1,0 +1,13 @@
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Javi\Desktop\Onyze\Api\Onyze\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
